@@ -143,7 +143,7 @@ reader:
     defaultUserEnableLocalStore: true # 新用户是否默认启用localStore
     defaultUserEnableBookSource: true # 新用户是否默认可编辑书源，如果为false，则只能使用默认书源，不能新增/修改/删除
     defaultUserEnableRssSource: true # 新用户是否默认可编辑RSS源
-    defaultUserBookSourceLimit: 100  # 新用户默认书源上限
+    defaultUserBookSourceLimit: 200  # 新用户默认书源上限
     defaultUserBookLimit: 200 # 新用户默认书籍上限
     autoBackupUserData: false # 是否自动备份用户数据
     minUserPasswordLength: 8  # 用户密码最小长度
